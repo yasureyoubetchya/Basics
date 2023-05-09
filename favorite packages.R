@@ -8,6 +8,7 @@ install.packages()
 
 # link for useful packages 
 # https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages
+# https://support.posit.co/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages
 
 library(ggplot2)  # for plotting, obviously!
 library(dplR)     # tree ring analyses
